@@ -5,7 +5,6 @@ Este proyecto implementa el control de un motor DC usando un puente H con MOSFET
 ## Componentes
 - ESP32
 - MOSFET IRFZ44N (canal N)
-- MOSFET F9530N (canal P)
 - Optoacopladores PC817
 - Botones de control
 - Potenciómetro (PWM)
